@@ -6,6 +6,7 @@
 
 $(document).ready(function(){
 
+	return;
 	
 	function initGMap() {
 		'use strict';
